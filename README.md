@@ -61,6 +61,7 @@ Non-PCA features:
     *	 Launching an Amazon SageMaker hyperparameter tuning job and viewing the evaluation metrics 
 6. Hosting (Deployment)
 
-**Results:**
+**Results:** 
 
+![Results](https://github.com/dinaelsokary/Predicting-Credit-Card-Fraud-Transactions/blob/main/results.JPG)
 
