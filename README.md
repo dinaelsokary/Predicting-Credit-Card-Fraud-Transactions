@@ -36,9 +36,9 @@ Non-PCA features:
     *	The problem is fraud transactions which affects the customer and the bank. 
     *	the success metric is automating the detection of potentially fraudulent activity and flagging that activity for review.
 3. Identify the type of ML problem you are dealing with.
-    *Supervised Machine learning (xgboost algorithm)
+    * Supervised Machine learning (xgboost algorithm)
 4. Analyze the appropriateness of the data you’re working with.
-    *Yes, because it contains the pervious fraud transaction information 
+    * Yes, because it contains the pervious fraud transaction information 
 
 **Steps to make the solution:** 
 1. Problem formulation and data collection
